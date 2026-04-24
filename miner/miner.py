@@ -13,7 +13,7 @@ import requests
 from datetime import datetime
 
 ORG = "tj-actions"
-RESULTS_DIR = "../results/tj-actions"
+RESULTS_DIR = "./results"
 
 def obtener_repos():
     print(f"Obteniendo repositorios más populares de {ORG}...")
