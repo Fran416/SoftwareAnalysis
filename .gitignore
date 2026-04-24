@@ -45,8 +45,8 @@ temp_*/
 *.tmp
 
 # Analysis outputs - generated at runtime
-results/*.json
-results/*.csv
+notebooks/results/*.json
+notebooks/results/*.csv
 
 # Environment variables
 .env
