@@ -1,0 +1,9 @@
+{
+    "name": "Analisis tj-actions",
+    "build": { "dockerfile": "Dockerfile" },
+    "customizations": {
+        "vscode": {
+            "extensions": ["ms-python.python", "ms-toolsai.jupyter"]
+        }
+    }
+}
