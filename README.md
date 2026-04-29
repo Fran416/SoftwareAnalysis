@@ -14,7 +14,7 @@ Proyecto centrado en analizar repositorios activos de una organizacion, PerfectH
 - Para ejecutar el proyecto debes clonar el repositorio:
 `
 git clone https://github.com/Fran416/SoftwareAnalysis
-cd SBOM-Analyzer
+cd SoftwareAnalysis
 `
 
 - Abrir el repositorio en VSCode:
